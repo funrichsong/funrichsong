@@ -4,7 +4,7 @@ title: About
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
-current: 
+current: about
 ---
 
 about page test
