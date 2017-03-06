@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'SONGEUNJI'
-description: "song eun ji blog test"
+name: 'SONGEUNJI2'
+description: "song eun ji blog test2"
 
 # Author's info
 author: 'funrichsong'
@@ -23,7 +23,7 @@ short_url: 'funrichsong.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
