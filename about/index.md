@@ -3,8 +3,8 @@ layout: page
 title: About
 class: 'post'
 navigation: True
-logo: '/assets/images/ghost.png'
-current: about
+logo: 'assets/images/ghost.png'
+current: 
 ---
 
 about page test
